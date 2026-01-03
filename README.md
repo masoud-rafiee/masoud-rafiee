@@ -121,12 +121,6 @@ Low-Level:
 
 **AI (ML, DL, CV, LLM) Engineering, Neurotechnology Research & System Development, Full Stack Development, and interested in Energy and Space Technology*
 
-<br/>
-
-*"Engineering the intersection of artificial intelligence, neuroscience, and systems architecture"*
-
-<br/>
-
 <div align="center">
 
 ## 🚀 **FEATURED PROJECTS**
