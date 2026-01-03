@@ -234,14 +234,6 @@ Low-Level:
 
 ---
 
-<div align="center">
-
-## 📊 **PERFORMANCE ANALYTICS**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=masoud-rafiee&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
-
----
-
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" />
 
