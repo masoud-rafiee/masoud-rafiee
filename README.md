@@ -246,13 +246,6 @@ Low-Level:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=masoud-rafiee&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
 
-<br/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=masoud-rafiee&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoud-rafiee&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&custom_title=Language%20Distribution"/>
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=masoud-rafiee&theme=algolia&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
-
-</div>
 
 ---
 
