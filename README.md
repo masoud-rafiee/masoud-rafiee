@@ -31,19 +31,19 @@
 ### 🧠 **AI & Machine Learning**
 ```yaml
 Deep Learning:
-  - PyTorch, TensorFlow
+  - PyTorch, TensorFlow, OpenCV, etc.
   - Neural Architecture Design
   - Computer Vision Systems
   
 ML Engineering:
-  - scikit-learn, MLOps
+  - scikit-learn, MLOps, etc.
   - Model Optimization
   - Production Deployment
   
 Research Focus:
-  - LLM Applications
-  - Genetic Algorithms
   - BCI Systems
+  - Robotics & IoT
+  - LLM and CV Applications
 ```
 
 </td>
@@ -117,9 +117,9 @@ Low-Level:
 </tr>
 </table>
 
-### **Current Focus Areas**
+### **Current Focus & Passion Areas**
 
-**AI (ML, DL, CV, LLM) Engineering, Neurotechnology Research & System Development, Full Stack Development, and interested in Energy and Space Technology*
+**AI (ML, DL, CV, LLM) Engineering, Neurotechnology Research & System Development, Software Engineering & Full Stack Development, and interested in Energy and Space Technology*
 
 <div align="center">
 
@@ -239,7 +239,6 @@ Low-Level:
 ## 📊 **PERFORMANCE ANALYTICS**
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=masoud-rafiee&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
-
 
 ---
 
