@@ -11,11 +11,8 @@
 <a href="https://linkedin.com/in/masoud-rafiee">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:masoud.rafiee@example.com">
+<a href="mailto:MRAFIEE22@UBishops.ca">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://yourportfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 </div>
@@ -24,7 +21,7 @@
 
 ## 🎯 Focus Areas
 
-**AI/ML Engineering** · **Backend Systems** · **Full-Stack Development** · **Neurotech & Robotics** · **Space Systems**
+**AI (ML,DL,CV,LLM) Engineering** · **Full-Stack Development** · **Neurotech & Robotics** · **Space & Energy Tech/Systems**
 
 ```python
 skills = {
