@@ -99,19 +99,19 @@ Low-Level:
 <table>
 <tr>
 <td align="center">
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<span style="font-size:40px;">🧠⚙️</span>
 <br/><b>Software Engineering</b>
 </td>
 <td align="center">
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<br/><b>AI/ML Engineering</b>
+<span style="font-size:40px;">🧬📊</span>
+<br/><b>AI / ML Engineering</b>
 </td>
 <td align="center">
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<span style="font-size:40px;">🧩🌐</span>
 <br/><b>Full-Stack Development</b>
 </td>
 <td align="center">
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+<span style="font-size:40px;">🤖🧠</span>
 <br/><b>Neurotech & Robotics</b>
 </td>
 </tr>
@@ -119,7 +119,7 @@ Low-Level:
 
 ### **Current Focus Areas**
 
-**Space Systems** • **Energy Technology** • **Brain-Computer Interfaces** • **Autonomous Systems** • **High-Performance Computing**
+**AI (ML, DL, CV, LLM) Engineering, Neurotechnology Research & System Development, Full Stack Development, and interested in Energy and Space Technology*
 
 <br/>
 
