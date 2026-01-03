@@ -99,19 +99,19 @@ Low-Level:
 <table>
 <tr>
 <td align="center">
-<img width="50" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"/>
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <br/><b>Software Engineering</b>
 </td>
 <td align="center">
-<img width="50" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"/>
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <br/><b>AI/ML Engineering</b>
 </td>
 <td align="center">
-<img width="50" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"/>
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <br/><b>Full-Stack Development</b>
 </td>
 <td align="center">
-<img width="50" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"/>
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
 <br/><b>Neurotech & Robotics</b>
 </td>
 </tr>
