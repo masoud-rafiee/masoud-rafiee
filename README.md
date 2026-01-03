@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&section=header&text=MASOUD%20RAFIEE&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI/ML%20Specialist%20%7C%20Systems%20Architect&descSize=20&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&section=header&text=MASOUD%20RAFIEE&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI/ML%20Engineer%20%7C%20Systems%20Architect&descSize=20&descAlignY=55" />
 
 <!-- Social Badges with Hover Effect -->
 <p>
