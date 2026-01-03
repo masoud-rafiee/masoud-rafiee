@@ -71,6 +71,61 @@ Low-Level:
 </table>
 
 ---
+<div align="center">
+
+## 🛠️ **TECHNOLOGY STACK**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,pytorch,tensorflow,react,nodejs,mongodb,docker,linux,git,github,vscode&theme=dark&perline=8" />
+
+<br/><br/>
+
+**Additional Tools & Frameworks**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 **OPEN TO OPPORTUNITIES**
+
+<table>
+<tr>
+<td align="center">
+<img width="50" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"/>
+<br/><b>Software Engineering</b>
+</td>
+<td align="center">
+<img width="50" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"/>
+<br/><b>AI/ML Engineering</b>
+</td>
+<td align="center">
+<img width="50" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"/>
+<br/><b>Full-Stack Development</b>
+</td>
+<td align="center">
+<img width="50" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"/>
+<br/><b>Neurotech & Robotics</b>
+</td>
+</tr>
+</table>
+
+### **Current Focus Areas**
+
+**Space Systems** • **Energy Technology** • **Brain-Computer Interfaces** • **Autonomous Systems** • **High-Performance Computing**
+
+<br/>
+
+*"Engineering the intersection of artificial intelligence, neuroscience, and systems architecture"*
+
+<br/>
 
 <div align="center">
 
@@ -200,62 +255,6 @@ Low-Level:
 </div>
 
 ---
-
-<div align="center">
-
-## 🛠️ **TECHNOLOGY STACK**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,pytorch,tensorflow,react,nodejs,mongodb,docker,linux,git,github,vscode&theme=dark&perline=8" />
-
-<br/><br/>
-
-**Additional Tools & Frameworks**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 **OPEN TO OPPORTUNITIES**
-
-<table>
-<tr>
-<td align="center">
-<img width="50" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"/>
-<br/><b>Software Engineering</b>
-</td>
-<td align="center">
-<img width="50" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"/>
-<br/><b>AI/ML Engineering</b>
-</td>
-<td align="center">
-<img width="50" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"/>
-<br/><b>Full-Stack Development</b>
-</td>
-<td align="center">
-<img width="50" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"/>
-<br/><b>Neurotech & Robotics</b>
-</td>
-</tr>
-</table>
-
-### **Current Focus Areas**
-
-**Space Systems** • **Energy Technology** • **Brain-Computer Interfaces** • **Autonomous Systems** • **High-Performance Computing**
-
-<br/>
-
-*"Engineering the intersection of artificial intelligence, neuroscience, and systems architecture"*
-
-<br/>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" />
